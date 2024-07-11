@@ -6,3 +6,6 @@ This repository contains all the codes and visualizations for the classification
 
 
 *Training vs Validation loss in client 1*
+
+
+![Training vs Validation loss in client 2](https://github.com/Cmatermedicalimageanalysis/FederatedLearningFramework-for-skin-cancer-classification/assets/156891606/99b02c82-c487-4b1c-92aa-7d00ef13ed6e)
